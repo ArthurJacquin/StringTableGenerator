@@ -1,0 +1,24 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "Modules": [
+    {
+      "Name": "StringTableGenerator",
+      "Type": "Editor",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "FriendlyName": "StringTableGenerator",
+  "Description": "",
+  "Category": "Other",
+  "CreatedBy": "Arthur Jacquin",
+  "CreatedByURL": "",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "CanContainContent": "false",
+  "Installed": true,
+  "IsBetaVersion": false,
+  "Plugins": []
+}
